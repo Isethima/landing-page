@@ -3,7 +3,15 @@
     color: white;
     display: flex;
     justify-content: flex-end;
+    padding: 40px;
 }
+
+.links{
+    display: flex;
+    gap: 30px;
+}
+
 #title{
     margin-right: auto;
+    font-weight: bold;
 }
