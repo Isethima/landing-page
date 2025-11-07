@@ -56,6 +56,7 @@ body{
     font-size: 18px;
     color: #F9FAF8;
     margin-top: 10px;
+    border: none;
 }
 
 .hero-right{
@@ -107,4 +108,31 @@ body{
     text-align: center;
     margin-top: 10px;
     margin-bottom: 10px;
+    padding-bottom: 30px;
 }
+
+.lower-middle{
+    font-size: 36px;
+    background-color: #E5E7EB;
+    font-weight: 300px;
+    color: #1F2937;
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+    font-style: italic;
+    padding-top: 60px;
+}
+
+.quote{
+    display: flex;
+    font-size: 24px;
+    background-color: #E5E7EB;
+    font-weight: 900px;
+    justify-content: flex-end;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-weight: bold;
+    padding-bottom: 50px;
+}
+
+
