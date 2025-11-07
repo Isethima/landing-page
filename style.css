@@ -58,10 +58,10 @@ body{
 
 .boxes{
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+    gap: 60px;
 }
 
 .box{
